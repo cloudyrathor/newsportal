@@ -1,0 +1,23 @@
+.jumbotron
+{
+    margin-top: 200px;
+    background: red;
+}
+.jumbotron h1
+{
+  color: #ffffff
+}
+body
+{
+ background :url(https://images.unsplash.com/photo-1498962342534-ee08a0bb1d45?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80);
+ background-repeat : no-repeat;
+ background-size: cover;
+ color : white;
+}
+img
+{
+width  : 25%;
+height : 50%;
+border :10px solid red;
+margin : 10px;
+}
